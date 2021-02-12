@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="15" passed="9" failed="2" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Click to see ]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_38_EST_2021.jpg>Pass Test</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_38_EST_2021.jpg><img src=Sat_Feb_06_02_52_38_EST_2021.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see ]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_39_EST_2021.jpg>Pass Test</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_39_EST_2021.jpg><img src=Sat_Feb_06_02_52_39_EST_2021.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see ]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_42_EST_2021.jpg>Pass Test</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_42_EST_2021.jpg><img src=Sat_Feb_06_02_52_42_EST_2021.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see ]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_42_EST_2021.jpg>Pass Test</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_42_EST_2021.jpg><img src=Sat_Feb_06_02_52_42_EST_2021.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see ]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_44_EST_2021.jpg>Pass Test</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_44_EST_2021.jpg><img src=Sat_Feb_06_02_52_44_EST_2021.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see ]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_45_EST_2021.jpg>Pass Test</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_45_EST_2021.jpg><img src=Sat_Feb_06_02_52_45_EST_2021.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see ]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_47_EST_2021.jpg>Failed Test</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_47_EST_2021.jpg><img src=Sat_Feb_06_02_52_47_EST_2021.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see ]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_48_EST_2021.jpg>Failed Test</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_48_EST_2021.jpg><img src=Sat_Feb_06_02_52_48_EST_2021.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see ]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_55_EST_2021.jpg>Pass Test</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_55_EST_2021.jpg><img src=Sat_Feb_06_02_52_55_EST_2021.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see ]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_55_EST_2021.jpg>Pass Test</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_55_EST_2021.jpg><img src=Sat_Feb_06_02_52_55_EST_2021.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see ]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_55_EST_2021.jpg>Pass Test</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_55_EST_2021.jpg><img src=Sat_Feb_06_02_52_55_EST_2021.jpg height=200 width=200></img></a>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-02-06T02:52:37 EST" name="php_travels" finished-at="2021-02-06T02:52:55 EST" duration-ms="18328">
+    <groups>
+    </groups>
+    <test started-at="2021-02-06T02:52:37 EST" name="Test" finished-at="2021-02-06T02:52:55 EST" duration-ms="18328">
+      <class name="test.SignIn">
+        <test-method signature="buttons()[pri:0, instance:test.SignIn@664a9613]" started-at="2021-02-06T02:52:45 EST" name="buttons" description="?Button verification" finished-at="2021-02-06T02:52:47 EST" duration-ms="2062" status="FAIL">
+          <exception class="org.openqa.selenium.InvalidSelectorException">
+            <message>
+              <![CDATA[invalid selector: Unable to locate an element with the xpath expression .//span[@class='alert alert-danger btn-block text-center' because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/span[@class='alert alert-danger btn-block text-center'' is not a valid XPath expression.
+  (Session info: chrome=88.0.4324.146)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 57 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'Cristiano-1', ip: '169.254.123.222', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:23894}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}), userDataDir=C:\Users\CRISTI~1\AppData\Local\Temp\scoped_dir23000_29679967}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=88.0.4324.146, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: ed249a626ac6d5b197b719b8cd66ba83
+*** Element info: {Using=xpath, value=.//span[@class='alert alert-danger btn-block text-center'}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression .//span[@class='alert alert-danger btn-block text-center' because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/span[@class='alert alert-danger btn-block text-center'' is not a valid XPath expression.
+  (Session info: chrome=88.0.4324.146)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 57 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'Cristiano-1', ip: '169.254.123.222', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:23894}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}), userDataDir=C:\Users\CRISTI~1\AppData\Local\Temp\scoped_dir23000_29679967}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=88.0.4324.146, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: ed249a626ac6d5b197b719b8cd66ba83
+*** Element info: {Using=xpath, value=.//span[@class='alert alert-danger btn-block text-center'}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:488)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+at base.Base_PHP.isDisplayed(Base_PHP.java:86)
+at test.SignIn.buttons(SignIn.java:64)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1380)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.InvalidSelectorException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see ]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_47_EST_2021.jpg>Failed Test</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_47_EST_2021.jpg><img src=Sat_Feb_06_02_52_47_EST_2021.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- buttons -->
+        <test-method signature="date()[pri:0, instance:test.SignIn@664a9613]" started-at="2021-02-06T02:52:47 EST" name="date" description="?Date verification" finished-at="2021-02-06T02:52:47 EST" duration-ms="15" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='h4']"}
+  (Session info: chrome=88.0.4324.146)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 14 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'Cristiano-1', ip: '169.254.123.222', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:23894}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}), userDataDir=C:\Users\CRISTI~1\AppData\Local\Temp\scoped_dir23000_29679967}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=88.0.4324.146, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: ed249a626ac6d5b197b719b8cd66ba83
+*** Element info: {Using=xpath, value=.//span[@class='h4']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//span[@class='h4']"}
+  (Session info: chrome=88.0.4324.146)
+  (Driver info: chromedriver=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 14 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'Cristiano-1', ip: '169.254.123.222', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:23894}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}), userDataDir=C:\Users\CRISTI~1\AppData\Local\Temp\scoped_dir23000_29679967}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=88.0.4324.146, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: ed249a626ac6d5b197b719b8cd66ba83
+*** Element info: {Using=xpath, value=.//span[@class='h4']}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:488)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+at base.Base_PHP.isDisplayed(Base_PHP.java:86)
+at test.SignIn.date(SignIn.java:45)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1380)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see ]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_48_EST_2021.jpg>Failed Test</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_48_EST_2021.jpg><img src=Sat_Feb_06_02_52_48_EST_2021.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- date -->
+        <test-method signature="login(java.util.Hashtable)[pri:0, instance:test.SignIn@664a9613]" started-at="2021-02-06T02:52:48 EST" name="login" data-provider="dp" finished-at="2021-02-06T02:52:54 EST" duration-ms="6396" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Password=demouser, Email=user@phptravels.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see ]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_55_EST_2021.jpg>Pass Test</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_55_EST_2021.jpg><img src=Sat_Feb_06_02_52_55_EST_2021.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="menuBar()[pri:0, instance:test.SignIn@664a9613]" started-at="2021-02-06T02:52:55 EST" name="menuBar" finished-at="2021-02-06T02:52:55 EST" duration-ms="64" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see ]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_55_EST_2021.jpg>Pass Test</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_55_EST_2021.jpg><img src=Sat_Feb_06_02_52_55_EST_2021.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- menuBar -->
+        <test-method signature="thumbnail()[pri:0, instance:test.SignIn@664a9613]" started-at="2021-02-06T02:52:55 EST" name="thumbnail" description="Thumbnail verification" finished-at="2021-02-06T02:52:55 EST" duration-ms="24" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see ]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_55_EST_2021.jpg>Pass Test</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_55_EST_2021.jpg><img src=Sat_Feb_06_02_52_55_EST_2021.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- thumbnail -->
+      </class> <!-- test.SignIn -->
+      <class name="test.Home">
+        <test-method signature="headline()[pri:0, instance:test.Home@314b8f2d]" started-at="2021-02-06T02:52:37 EST" name="headline" description="Headline verification" finished-at="2021-02-06T02:52:37 EST" duration-ms="103" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see ]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_38_EST_2021.jpg>Pass Test</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_38_EST_2021.jpg><img src=Sat_Feb_06_02_52_38_EST_2021.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- headline -->
+        <test-method signature="logo()[pri:1, instance:test.Home@314b8f2d]" started-at="2021-02-06T02:52:38 EST" name="logo" description="Logo verification" finished-at="2021-02-06T02:52:38 EST" duration-ms="29" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see ]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_39_EST_2021.jpg>Pass Test</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_39_EST_2021.jpg><img src=Sat_Feb_06_02_52_39_EST_2021.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logo -->
+        <test-method signature="currencyButton()[pri:2, instance:test.Home@314b8f2d]" started-at="2021-02-06T02:52:39 EST" name="currencyButton" description="Currency button and list verification" finished-at="2021-02-06T02:52:41 EST" duration-ms="2266" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see ]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_42_EST_2021.jpg>Pass Test</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_42_EST_2021.jpg><img src=Sat_Feb_06_02_52_42_EST_2021.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- currencyButton -->
+        <test-method signature="language()[pri:3, instance:test.Home@314b8f2d]" started-at="2021-02-06T02:52:42 EST" name="language" description="Language button verification" finished-at="2021-02-06T02:52:42 EST" duration-ms="189" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see ]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_42_EST_2021.jpg>Pass Test</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_42_EST_2021.jpg><img src=Sat_Feb_06_02_52_42_EST_2021.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- language -->
+        <test-method signature="myAccount()[pri:4, instance:test.Home@314b8f2d]" started-at="2021-02-06T02:52:42 EST" name="myAccount" description="My Account verification" finished-at="2021-02-06T02:52:44 EST" duration-ms="1140" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see ]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_44_EST_2021.jpg>Pass Test</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_44_EST_2021.jpg><img src=Sat_Feb_06_02_52_44_EST_2021.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- myAccount -->
+        <test-method signature="callNow()[pri:5, instance:test.Home@314b8f2d]" started-at="2021-02-06T02:52:44 EST" name="callNow" finished-at="2021-02-06T02:52:44 EST" duration-ms="28" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see ]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_45_EST_2021.jpg>Pass Test</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Sat_Feb_06_02_52_45_EST_2021.jpg><img src=Sat_Feb_06_02_52_45_EST_2021.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- callNow -->
+      </class> <!-- test.Home -->
+      <class name="base.Base_PHP">
+        <test-method is-config="true" signature="setup()[pri:0, instance:base.Base_PHP@285d851a]" started-at="2021-02-06T02:52:27 EST" name="setup" finished-at="2021-02-06T02:52:37 EST" duration-ms="10072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:base.Base_PHP@285d851a]" started-at="2021-02-06T02:52:55 EST" name="tearDown" finished-at="2021-02-06T02:52:56 EST" duration-ms="1056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- base.Base_PHP -->
+    </test> <!-- Test -->
+  </suite> <!-- php_travels -->
+</testng-results>
